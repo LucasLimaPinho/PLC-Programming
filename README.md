@@ -7,5 +7,7 @@ The majority of these programs were extract from Paul Lynn lectures in Udemy (aw
 
 Link to "Practical PLC Programming (PLC II)": https://www.udemy.com/share/101ZhmAkUZdFdWRnw=/
 
-Paul Lynn's LnkedIn: https://www.linkedin.com/in/paulashtonlynn/detail/recent-activity/posts/
+Paul Lynn's LnkedIn: https://www.linkedin.com/in/paulashtonlynn/
+
+My LinkedIn: https://www.linkedin.com/in/lucaslimapinho/
 
