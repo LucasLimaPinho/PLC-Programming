@@ -1,5 +1,5 @@
 # PLC-Programming
-PLC Programming (RsLogix, Simatic)
+
 
 Programs that are very common in Industrial Automation using Rockwell and Siemens programmations language.
 
